@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Ads and Banner Manager\n"
+"POT-Creation-Date: 2016-08-09 13:17+0700\n"
+"PO-Revision-Date: 2016-08-09 13:17+0700\n"
+"Last-Translator: \n"
+"Language-Team: Tonjoo <todiadiyatmo@gmail.com>\n"
+"Language: Indonesia\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../tonjoo-license-page.php:70
+msgid "Register your license code here to get all benefit of "
+msgstr ""
+"Registrasi lisensi anda disini untuk mendapatkan semua benefit dari Simple "
+"Ads and Banner Manager."
+
+#: ../tonjoo-license-page.php:71
+msgid "<br/><b>Remove Ads</b> by register your license code. "
+msgstr "<br/><b>Hilangkan iklan</b> dengan meregistrasi kode anda. "
+
+#: ../tonjoo-license-page.php:72
+msgid "<br/>Find your license code at "
+msgstr "<br/>Dapatkan kode lisensi ada di "
+
+#: ../tonjoo-license-page.php:96
+msgid "Registered"
+msgstr "Telah teregistrasi"
+
+#: ../simple-ads-and-banner-manager-lite.php:74
+#, php-format
+msgid ""
+"%1$s Unleash the full potential of %2$s Inline Banner and Ads Manager %3$s "
+"by upgrading to pro version! %4$s Do not bug me again %5$s Not Now %6$s %7$s"
+msgstr ""
+"%1$s Dapatkan semua fitur menarik dari %2$s Simple Ads and Banner Manager "
+"%3$s dengan cara upgrade ke versi PRO! %4$s Jangan ganggu saya lagi %5$s "
+"Tidak Sekarang %6$s %7$s"
+
+#: ../theme-options.php:19 ../theme-options.php:20
+msgid "Style Editor"
+msgstr "Editor Style"
+
+#: ../theme-options.php:43
+msgid "Plugin by"
+msgstr "Dibuat oleh"
+
+#: ../theme-options.php:45
+msgid "Please Rate :)"
+msgstr "Silahkan di rating"
+
+#: ../theme-options.php:46
+msgid "Comment"
+msgstr "Komentar"
+
+#: ../theme-options.php:47
+msgid "Forum"
+msgstr "Forum"
+
+#: ../theme-options.php:48
+msgid "FAQ"
+msgstr "FAQ"
+
+#: ../library-license-wordpress/tonjoo_license.php:338
+#, php-format
+msgid ""
+" <a href=\"%1$s\" style=\"float:right;margin-top:5px;color:#a00;\">Hide "
+"Notice</a>"
+msgstr ""
+" <a href=\"%1$s\" style=\"float:right;margin-top:5px;color:#a00;"
+"\">Sembunyikan</a>"
+
+#: ../theme-options/settings.php:7
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: ../theme-options/settings.php:16
+msgid "Limit Banner to logged in users"
+msgstr "Batasi banner untuk user yang login"
+
+#: ../theme-options/settings.php:18 ../theme-options/settings.php:30
+#: ../theme-options/settings.php:35
+msgid "Yes"
+msgstr "Ya"
+
+#: ../theme-options/settings.php:19
+msgid "No"
+msgstr "Tidak"
+
+#: ../theme-options/settings.php:24
+msgid "Mobile threshold (for css mobile detection)"
+msgstr "Batas lebar untuk mobile (untuk deteksi css)"
+
+#: ../theme-options/settings.php:29
+msgid "Show on homepage"
+msgstr "Tampilkan di halaman depan"
+
+#: ../theme-options/settings.php:34
+msgid "Show on archives"
+msgstr "Tampilkan di archive"
+
+#: ../theme-options/settings.php:58
+msgid ""
+"This action will reset all banners with manual positioning on each posts."
+msgstr ""
+"Aksi ini akan me-reset seluruh posisi banner yang diatur secara manual pada "
+"masing-masing post ke posisi default."
+
+#: ../theme-options/settings.php:86 ../theme-options/style_editor.php:146
+msgid "PRO Version"
+msgstr "Versi PRO"
+
+#: ../theme-options/settings.php:92 ../theme-options/style_editor.php:152
+msgid ""
+"These features are available in Pro Version. Unleash the full potential of "
+"Inline Banner and Ads Manager by upgrading to PRO Version!"
+msgstr ""
+"Fitur ini tersedia di versi Pro. Dapatkan semua fitur menarik dari Inline "
+"Banner and Ads Manager dengan upgrade ke versi Pro!"
+
+#: ../theme-options/settings.php:96 ../theme-options/style_editor.php:156
+msgid "Upgrade To PRO!"
+msgstr "Upgrade Ke PRO!"
+
+#: ../theme-options/banners.php:5
+msgid "Banners"
+msgstr "Banner-Banner"
+
+#: ../theme-options/banners.php:11
+msgid "Add Banner"
+msgstr "Tambah Banner"
+
+#: ../theme-options/banners.php:17 ../theme-options/banners.php:87
+msgid "Title"
+msgstr "Judul"
+
+#: ../theme-options/banners.php:18 ../theme-options/banners.php:88
+msgid "Banner Title"
+msgstr "Judul Banner"
+
+#: ../theme-options/banners.php:21 ../theme-options/banners.php:91
+msgid "Banner Type"
+msgstr "Tipe Banner"
+
+#: ../theme-options/banners.php:31 ../theme-options/banners.php:101
+msgid "Location"
+msgstr "Lokasi"
+
+#: ../theme-options/banners.php:33 ../theme-options/banners.php:103
+msgid "Above article"
+msgstr "Bagian atas artikel"
+
+#: ../theme-options/banners.php:34 ../theme-options/banners.php:104
+msgid "Below article"
+msgstr "Bagian bawah artikel"
+
+#: ../theme-options/banners.php:37 ../theme-options/banners.php:109
+msgid "After paragraph"
+msgstr "Setelah paragraf ke"
+
+#: ../theme-options/banners.php:43 ../theme-options/banners.php:115
+msgid "Behaviours (Available only on PRO version)"
+msgstr "Tingkah Laku (Tersedia hanya di versi PRO)"
+
+#: ../theme-options/banners.php:46 ../theme-options/banners.php:118
+msgid "Enable mobile content"
+msgstr "Aktifkan konten mobile"
+
+#: ../theme-options/banners.php:50 ../theme-options/banners.php:122
+msgid ""
+"Use PHP mobile version instead of Javascript for mobile version (may break "
+"cache compability)"
+msgstr "Gunakan deteksi mobile versi PHP"
+
+#: ../theme-options/banners.php:55 ../theme-options/banners.php:127
+msgid "Desktop Content"
+msgstr "Konten Desktop"
+
+#: ../theme-options/banners.php:56 ../theme-options/banners.php:128
+msgid "Mobile Content"
+msgstr "Konten Mobile"
+
+#: ../theme-options/style_editor.php:9
+msgid "Settings saved"
+msgstr "Pengaturan telah disimpan"
+
+#: ../theme-options/style_editor.php:33
+msgid "Desktop View"
+msgstr "Tampilan di Desktop"
+
+#: ../theme-options/style_editor.php:38
+msgid "Enable Style"
+msgstr "Aktifkan Style"
+
+#: ../theme-options/style_editor.php:42
+msgid "Background Color"
+msgstr "Warna Latar"
+
+#: ../theme-options/style_editor.php:46
+msgid "Text Above Banner"
+msgstr "Text Diatas Banner"
+
+#: ../theme-options/style_editor.php:50 ../theme-options/style_editor.php:84
+msgid "Text above banner options below is available in PRO version"
+msgstr "Opsi teks di atas banner dibawah ini tersedia di versi PRO"
+
+#: ../theme-options/style_editor.php:58 ../theme-options/style_editor.php:92
+msgid "Banner options below is available in PRO version"
+msgstr "Opsi banner dibawah ini tersedia di versi PRO"
+
+#: ../theme-options/style_editor.php:74
+msgid "Mobile View (Available in PRO Version)"
+msgstr "Tampilan Mobile (Tersedia hanya di versi PRO)"
+
+#: ../theme-options/style_editor.php:114 ../theme-options/style_editor.php:118
+msgid "Save Options"
+msgstr "Simpan Opsi"
+
+#: ../theme-options/style_editor.php:116
+msgid "Save your changes to apply the options"
+msgstr "Simpan opsi anda"
+
+#: ../theme-options/style_editor.php:127 ../theme-options/style_editor.php:131
+msgid "Reset Options"
+msgstr "Reset Opsi"
+
+#: ../theme-options/style_editor.php:129
+msgid "Reset to the default options. Warning, this cannot be undone."
+msgstr "Reset ke pengaturan default. Perhatian, ini tidak bisa dibatalkan"
+
+#: ../theme-options/ads.php:5
+msgid "Tonjoo News"
+msgstr "Berita Tonjoo"
+
+#~ msgid "Mobile View"
+#~ msgstr "Tampilan Mobile"
+
+#~ msgid "License For"
+#~ msgstr "Lisensi Untuk"
+
+#~ msgid "Your License Code"
+#~ msgstr "Kode lisensi anda"
+
+#~ msgid "Last Checked"
+#~ msgstr "Terakhir di cek"
+
+#~ msgid "Last Status"
+#~ msgstr "Status terakhir"
+
+#~ msgid "Licensed To"
+#~ msgstr "Teregistrasi untuk"
+
+#~ msgid "Registered Sites"
+#~ msgstr "Situs teregistrasi"
+
+#~ msgid "Unregister this site"
+#~ msgstr "Batalkan registrasi"
+
+#~ msgid "Use Content Font"
+#~ msgstr "Sama dengan font konten"
+
+#~ msgid "Show on post types"
+#~ msgstr "Tampilkan di post type"
+
+#~ msgid "Select post type"
+#~ msgstr "Pilih post type"
+
+#~ msgid "Disable for terms"
+#~ msgstr "Matikan di terms"
+
+#~ msgid "Cancel"
+#~ msgstr "Batal"
+
+#~ msgid "Reset Positions"
+#~ msgstr "Reset Opsi"
+
+#~ msgid "Behaviours"
+#~ msgstr "Perilaku"
+
+#~ msgid "Text"
+#~ msgstr "Teks"
+
+#~ msgid "Text Size"
+#~ msgstr "Ukuran Teks"
+
+#~ msgid "Text size in pixel, set to empty to inherit with the content"
+#~ msgstr "Ukuran teks dalam piksel, kosongkan untuk menyamakan dengan konten"
+
+#~ msgid "Text Color"
+#~ msgstr "Warna Teks"
+
+#~ msgid "Text Bold"
+#~ msgstr "Teks Tebal"
+
+#~ msgid "Text Italic"
+#~ msgstr "Teks Miring"
+
+#~ msgid "Text Font Style"
+#~ msgstr "Font Teks"
+
+#~ msgid "Text Padding"
+#~ msgstr "Padding Teks"
+
+#~ msgid "Top"
+#~ msgstr "Atas"
+
+#~ msgid "Right"
+#~ msgstr "Kanan"
+
+#~ msgid "Bottom"
+#~ msgstr "Bawah"
+
+#~ msgid "Left"
+#~ msgstr "Kiri"
+
+#~ msgid "Text Margin"
+#~ msgstr "Margin teks"
+
+#~ msgid "Banner Padding"
+#~ msgstr "Padding Banner"
+
+#~ msgid "Banner Margin"
+#~ msgstr "Margin Banner"
+
+#~ msgid "Location after paragraph number"
+#~ msgstr "Lokasi setelah paragraf ke"

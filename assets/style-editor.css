@@ -1,0 +1,107 @@
+.general-options input[type='text'], select, textarea {
+	/*width: 300px;*/
+}
+
+.general-options textarea {
+	height: 100px;
+}
+
+.general-options .form-table th {
+    width: 175px;
+    text-align: left;
+    font-weight: normal;
+}
+
+.general-options .form-table label {
+	display: block;
+	padding: 0px;
+	margin: 0;
+    font-style: 12px;
+    color: #72777c;
+}
+
+.general-options .form-table label b + b {
+	padding-left: 5px;
+}
+
+.minicolors {
+	height: 28px !important;
+}
+
+#reset_options {
+	color: #a00;
+}
+
+.td-col-row-4 > div {
+	display: inline-block;;
+	margin-right: 10px; 
+	margin-bottom: 10px; 
+}
+
+.td-col-row-4 > div input {
+	width:70px;
+}
+
+#promo_1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#promo_2 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.premium-features {
+  	cursor: pointer;
+  	position: relative;
+}
+
+.premium-features:after {
+	content: '';
+    display: inline-block;
+    position: absolute;
+    top: -15px;
+    bottom: -15px;
+    left: -13px;
+    right: -13px;
+    background-image: url('premium-pattern.png');
+}
+
+.spb-notification-button {
+	text-align:left;
+	margin-top:15px;	
+}
+
+/* spb-notification-button */
+#spb-premium-notification {
+	display:none;
+}
+.spb-notification-button > a {
+	font-size: 18px !important;
+    height: 50px !important;
+    line-height: 48px !important;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
+.spb-notification-text {
+	font-size: 14px;
+}
+.spb-notification-img {
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+.meta-subtitle {
+	margin: 0px -22px !important;
+    border-top: 1px solid #EEE;
+    border-bottom: 1px solid #EEE;
+    background-color: #F6F6F6;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.postbox .inside {
+	padding-bottom: 0px !important; 
+}

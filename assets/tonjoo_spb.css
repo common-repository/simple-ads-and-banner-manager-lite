@@ -1,0 +1,7 @@
+p.spb_banner {
+	text-align: center;
+}
+#spbbanner.hidden {
+	display: none;
+	visibility: hidden;
+}
